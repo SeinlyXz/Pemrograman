@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F3FB6E13-78B8-450E-A91C-8181F54FB74D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UTS-2.0/MainPage.xaml">
+    <Files>
+      <File FileName="UTS-2.0/MainPage.xaml.cs" Line="58" Column="41" />
+      <File FileName="UTS-2.0/MainPage.xaml" Line="50" Column="1" />
+      <File FileName="UTS-2.0/Models/Dosen.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UTS-2" expanded="True">
+            <Node name="UTS-2.0" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UTS-2.0 PreferredExecutionTarget="MyAppleMacCatalystID" />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="UTS-2.0.app/Contents/MacOS/UTS-2.0">
+      <BCSymbolMapName>UTS-2.0.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>UTS-2.0.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/macbookpro/Projects/UTS-2.0/UTS-2.0/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>UTS-2.0.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/macbookpro/Projects/UTS-2.0/UTS-2.0</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
